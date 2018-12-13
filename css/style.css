@@ -1,0 +1,154 @@
+*,
+*::before,
+*::after{
+	
+	box-sizing: border-box;
+	
+	
+}
+*:focus{
+	
+	outline:none;
+}
+
+body{
+	text-align:center;
+	 background: #fffdd4;
+	 padding: 12px 50px 12px 50px;
+	 margin-top: 0px;
+	 
+}
+	
+
+
+
+img {
+	 width: 40%;
+	 border-radius:20%;
+	 
+}
+
+.uno h1 {
+	font-weight:bold;
+	font-size:4em;
+	letter-spacing:4px;
+}
+.uno h3 {
+	font-weight: bold;
+	font-size: 2em;
+	letter-spacing: 4px;
+	color: #000;
+}
+
+.pro {
+    font-weight:bold;
+	font-size:3em;
+	letter-spacing:4px;
+}
+.about{
+     padding: 10px 0;
+	 color: black;
+	 text-transform:uppercase;
+	 font-size:1;
+	 letter-spacing: 2px;
+	 font-weight:bold;
+}
+
+.pro1 {
+	border: 2px #000 solid;
+	
+}
+
+
+
+.pro1 p {
+	 padding: 10px 0;
+	 color: black;
+	 text-transform:uppercase;
+	 font-size:1;
+	 letter-spacing: 2px;
+	 font-weight:bold;
+}
+
+.skill {
+	padding: 5px;
+	border: 2px #000 solid;
+	font-weight:bold;
+	font-size:2em;
+	letter-spacing:4px;
+}
+
+.skill2 {
+	font-weight: bold;
+	font-size: 2em;
+	letter-spacing: 4px;
+	color: #000;
+}
+
+.gags {
+    padding: 5px;
+	font-weight:bold;
+	font-size:2em;
+	letter-spacing:4px;
+}
+.hmm-second{
+	border: 2px #000 solid;
+}
+.hmm-second em{
+	font-weight: bold;
+	font-size: 1em;
+	letter-spacing: 4px;
+	color: #000;
+}
+.hmm-second p {
+	padding: 10px 0;
+	 text-transform:uppercase;
+	 font-size:1;
+	 letter-spacing: 2px;
+}
+
+.kinana {
+	border: 2px #000 solid;
+	margin-bottom: 20px;
+}
+
+.huli {
+	padding: 5px;
+	font-weight:bold;
+	font-size:2em;
+	letter-spacing:4px;
+	
+}
+.
+
+
+.top-bar{
+	padding: 20px 0;
+	text-align:center;
+	
+}
+
+.top-bar a{
+	margin: 10px;
+	font-size: 2em;
+	color: #b2b2b2;
+	transition: all 0.35s;
+	display:inline-block;
+	
+}
+ 
+.top-bar a:hover{
+	transform: scale(1.1);
+	color:#000;
+	
+}
+
+.bottom-bar {
+	border: 2px #000 solid;
+	background-color:#000;
+}
+.bottom-bar p {
+	color:white;
+	
+	
+}
